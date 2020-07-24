@@ -1,4 +1,16 @@
-### Hi there 👋
+# MX :mexico: / UNAM :yellow_heart: :blue_heart:
+
+## Web Developer in progress :hourglass:
+
+### Languages: HTML, CSS, JS, PHP, MySQL
+
+### Currently learning: "Angular"
+
+#### Contact:
+
+Mail: luisanmen_10@hotmail.com
+
+IG: luis.a.m.r
 
 <!--
 **LuisAntMendoza/LuisAntMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
