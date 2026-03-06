@@ -1,16 +1,24 @@
 # MX :mexico: / UNAM :yellow_heart: :blue_heart:
 
-## Web Developer in progress :hourglass:
+## Web Developer
 
-### Languages: HTML, CSS, JS, PHP, MySQL
+### Tech stack:
+- Web development with HTML and CSS
+- Javascript / Typescript
+- JQuery
+- Bootstrap
+- PHP
+- MySQL/PostgreSQL
+- Wordpress
+- Angular
+- NestJS
+- Docker
 
-### Currently learning: "Angular"
-
-#### Contact:
+### Contact:
 
 :e-mail: : luisanmen_10@hotmail.com
 
-IG: luis.a.m.r
+📞 : 55 1932 1998
 
 <!--
 **LuisAntMendoza/LuisAntMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
